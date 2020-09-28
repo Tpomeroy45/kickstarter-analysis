@@ -12,7 +12,7 @@ Basing our suggestion on the date that other Kickstarter campaigns had started t
 ### Challenges and Difficulties Encountered
 Some challenges I incurred while working on this project was the fact that I could not get the data set to show properly in the [graph](https://github.com/Tpomeroy45/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png). I had to get assistance and found out along the way that the way that pivot was interpreting my data was in the wrong order and I fix this problem swiftly. The problem still could not be solved, and my results reflect this. My graph looks close to the correct answer, but my chart was still skewed and not correct. With this factor in play I used the data to the best of my abilities and reviewed all of the provided lessens in hopes of finding the section that i messed up in the formulas but I couldn’t figure out the line that I had improperly written. Another difficulty was the vast size of the data, but I rectified this by using the provided filters and sorting.
 
-**###- What are two conclusions you can draw about the Outcomes based on Launch Date?**
+**- What are two conclusions you can draw about the Outcomes based on Launch Date?**
 One conclusion I can draw from the outcomes based on launch date would be that a good time to start funding would be May or June as those months showed the highest percentage of fully funded campaigns. Another conclusion that can be drawn is that there is a spike in failed campaigns during October and then declining until May when it rises almost to the same level as in October.
 
 **- What can you conclude about the Outcomes based on Goals?**
